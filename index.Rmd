@@ -47,7 +47,7 @@ class: inverse, center, middle
 include_graphics("img/8-course-map.png")
 ```
 
-(See the [course syllabus](https://canvas.fsu.edu/courses/229822/assignments/syllabus))
+(See the [course syllabus](https://canvas.fsu.edu/courses/242017/assignments/syllabus))
 
 ---
 
